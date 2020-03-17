@@ -267,6 +267,7 @@ channels:
   - name: schemahero
   - name: se-users
   - name: sealed-secrets
+  - name: security-streaming
   - name: shippable
   - name: shipper
   - name: shoutouts
@@ -359,3 +360,4 @@ channels:
   - name: wg-virtual-kubelet
     archived: true
   - name: workshop-chat
+  - name: security-streaming
